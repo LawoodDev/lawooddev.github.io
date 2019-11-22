@@ -30,6 +30,7 @@ nav .navbar {
     justify-content: flex-start;
     letter-spacing: 0.2rem;
     text-transform: uppercase;
+    height: 4em;
 }
 
 .navbar .nav-item {
