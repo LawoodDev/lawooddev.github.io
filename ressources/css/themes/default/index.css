@@ -68,6 +68,8 @@ nav .navbar {
 .desc {
     width: 50%;
     flex: 1;
+    display:flex;
+    justify-content:center;
 }
 
 .content {
